@@ -1,4 +1,6 @@
-# Assignment 6, Amy Schaeffer
+# Amy Schaeffer
+# Calculates the number of kilometers a user drove when they enter the miles, utilizing try and except blocks
+
 print("Welcome to the miles to kilometers calculator")
 def m_to_km(miles_inputted):
             """Converts entered miles to kilometers"""
